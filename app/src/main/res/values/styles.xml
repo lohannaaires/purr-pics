@@ -7,4 +7,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MyStyle" parent="AppTheme">
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryDark">@color/actionbar</item>
+        <item name="android:fontFamily">@font/sintony_bold</item>
+
+    </style>
+
 </resources>
